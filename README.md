@@ -21,6 +21,7 @@ Ce document fournit un guide aux administrateurs sur la façon d'ajouter du cont
 ### 1. Ajout d'articles personnalisés
 
 Il existe trois principaux types d'articles personnalisés :
+![]{images/screenshot1.png}
 
 #### **Calendrier d’activités:** 
 Ces articles sont utilisés pour ajouter des activités au calendrier. En créent une activité, et s’ajoute à la page “calendrier” et, elle aura une page a elle, qui sera accordé une adresse avec la logique suivante : https://www.toledere.ca/nom-de-l'activite
